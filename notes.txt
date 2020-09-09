@@ -1,0 +1,6 @@
+
+
+GOALS!!!!!
+1) Get Google maps scripts code into scripts file
+2) Add a search field to search for locations in a google map
+3) trying to cross reference info from a different API
